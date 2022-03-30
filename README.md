@@ -6,7 +6,7 @@ First of all download these two libraries and add it to your arduino ide also se
 
 after adding upload the sketch i provided to your esp32 camera module
 update your wifi creds in that code before uploading
-![code](https://github.com/zerocool-11/hand-tracking-droid/wifi.png)
+![code](https://github.com/zerocool-11/hand-tracking-droid/blob/main/wifi.png)
 
 install all the python deps using this command
 ```
