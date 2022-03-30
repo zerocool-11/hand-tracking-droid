@@ -16,3 +16,6 @@ pip install -r requirements.txt
 after that find the ip address of your esp32 cam and update it to the python code that's it
 then simply run main-espcam.py script and enjoy
 
+[Demo video ](https://www.instagram.com/reel/CbmvQuMgkL9/?utm_source=ig_web_copy_link)
+
+### Do follow me on insta and subscribe my channel on youtube for more projects
