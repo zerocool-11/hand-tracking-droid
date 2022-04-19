@@ -1,4 +1,3 @@
-from turtle import position
 from utils.FaceDetector import mp_detector
 import numpy as np
 import cv2
@@ -16,17 +15,12 @@ url="http://{}/picture".format(ip)
 
 detector=mp_detector()
 
-cap=cv2.VideoCapture(0)
-cap.set(cv2.CAP_PROP_FRAME_WIDTH, 480)
-cap.set(cv2.CAP_PROP_FRAME_HEIGHT, 640)
 
 pTime=0
 mid_x=None
 position=90
 position_y=90
-pid=[0.1,0.1]
-pErrorW=0
-pErrorH=0
+
 
 pan=65
 def blink():
